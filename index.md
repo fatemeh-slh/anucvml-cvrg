@@ -19,7 +19,7 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     <div class="people-name text-center">
       <a href="https://fatemeh-slh.github.io/" target="_blank">Fatemeh Saleh</a><br>
         Session 1: Introduction to Generative Models, Deep Autoregressive Models<br>
-      <button class="button button4">Slides</button>
+      <button class="button button4">[Slides](assets/ANUCVML-CVRG-Tutorial1-Session1.pdf)</button>
       <button class="button button4">Video</button>
     </div>
    </div>
