@@ -12,7 +12,7 @@ The CVRG and Tutorial meets weekly to discuss (mostly) recent papers in computer
 This tutorial covers an introduction to generative models, deep autoregressive models, variational autoencoders, normalizing flows, generative adversarial networks, and energy-based models. This is a three-session tutorial provided by Fatemeh Saleh, Sadegh Aliakbarian, and Xin Yu.
 
 <!-- > Tutorial item <-->
-<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border:none;"><tbody>
     <tr style="padding:0px">
       <td style="padding:0px">
         <hr>
