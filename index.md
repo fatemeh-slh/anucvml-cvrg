@@ -22,9 +22,9 @@ This tutorial covers an introduction to generative models, deep autoregressive m
 
         <table style="width:100%; align:center">
           <tr>
-            <td style="text-align:center"><img src="images/fatemeh.png" width="150px"></td>
-            <td style="text-align:center"><img src="images/sadegh.png" width="150px"></td>
-            <td style="text-align:center"><img src="images/xin.png" width="150px"></td>
+            <td style="text-align:center"><img src="assets/fatemeh.png" width="150px"></td>
+            <td style="text-align:center"><img src="assets/sadegh.png" width="150px"></td>
+            <td style="text-align:center"><img src="assets/xin.png" width="150px"></td>
           </tr>
           <tr>
             <td style="text-align:center">
