@@ -11,8 +11,8 @@ The CVRG and Tutorial meets weekly to discuss (mostly) recent papers in computer
 ### Tutorial 1: Deep Generative Models
 This tutorial covers an introduction to generative models, deep autoregressive models, variational autoencoders, normalizing flows, generative adversarial networks, and energy-based models. This is a three-session tutorial provided by Fatemeh Saleh, Sadegh Aliakbarian, and Xin Yu.
 
-<div class="row">
-  <div class="col-xs-3">
+<div class="row" align="center">
+  <div class="col-sm-3">
     <a href="https://fatemeh-slh.github.io/" target="_blank">
       <img class="people-pic" src="assets/fatemeh.png">
     </a>
@@ -22,7 +22,7 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     </div>
    </div>
    
-   <div class="col-xs-3">
+   <div class="col-sm-3">
     <a href="https://sadegh-aa.github.io/" target="_blank">
       <img class="people-pic" src="assets/sadegh.png">
     </a>
@@ -32,7 +32,7 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     </div>
   </div>
   
-  <div class="col-xs-3">
+  <div class="col-sm-3">
     <a href="https://sites.google.com/view/xinyus-homepage/Home/" target="_blank">
       <img class="people-pic" src="assets/xin.png">
     </a>
