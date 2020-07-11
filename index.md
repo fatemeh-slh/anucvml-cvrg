@@ -12,7 +12,7 @@ The CVRG and Tutorial meets weekly to discuss (mostly) recent papers in computer
 This tutorial covers an introduction to generative models, deep autoregressive models, variational autoencoders, normalizing flows, generative adversarial networks, and energy-based models. This is a three-session tutorial provided by Fatemeh Saleh, Sadegh Aliakbarian, and Xin Yu.
 
 <div class="row" align="center">
-  <div class="col-sm-3">
+  <div class="col-sm-4">
     <a href="https://fatemeh-slh.github.io/" target="_blank">
       <img class="people-pic" src="assets/fatemeh.png">
     </a>
@@ -22,7 +22,7 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     </div>
    </div>
    
-   <div class="col-sm-3">
+   <div class="col-sm-4">
     <a href="https://sadegh-aa.github.io/" target="_blank">
       <img class="people-pic" src="assets/sadegh.png">
     </a>
@@ -32,7 +32,7 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     </div>
   </div>
   
-  <div class="col-sm-3">
+  <div class="col-sm-4">
     <a href="https://sites.google.com/view/xinyus-homepage/Home/" target="_blank">
       <img class="people-pic" src="assets/xin.png">
     </a>
@@ -42,11 +42,9 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     </div>
   </div>
 </div>
-<div>
-Additional Notes:<br>
-<i class="fa fa-check-circle"></i> Session 1: Introduction to Generative Models, Deep Autoregressive Models (10 July 2020)<br>
-<i class="fa fa-check-circle"></i> Session 2: Variational Autoencoders, Normalizing Flows (17 July 2020)<br>
-<i class="fa fa-check-circle"></i> Session 3: Generative Adversarial Networks, Energy-based Models (24 July 2020)<br>
-<i class="fa fa-check-circle"></i> Zoom Meeting: Join the meeting via <a href="https://anu.zoom.us/j/6449388968">Zoom</a>.<br>
-<i class="fa fa-check-circle"></i> Additional resources: blah blah blah<br>
-</div>
+
+### Additional Notes:
+- Session 1: Introduction to Generative Models, Deep Autoregressive Models *(10 July 2020)*
+- Session 2: Variational Autoencoders, Normalizing Flows *(17 July 2020)*
+- Session 3: Generative Adversarial Networks, Energy-based Models *(24 July 2020)*
+- Zoom Meeting: Join the meeting via (Zoom)[https://anu.zoom.us/j/6449388968"].
