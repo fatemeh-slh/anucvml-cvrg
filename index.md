@@ -18,7 +18,9 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     </a>
     <div class="people-name text-center">
       <a href="https://fatemeh-slh.github.io/" target="_blank">Fatemeh Saleh</a><br>
-        Session 1: Introduction to Generative Models, Deep Autoregressive Models
+        Session 1: Introduction to Generative Models, Deep Autoregressive Models<br>
+      <button class="button button4">Slides</button>
+      <button class="button button4">Video</button>
     </div>
    </div>
    
@@ -28,7 +30,9 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     </a>
     <div class="people-name text-center">
       <a href="https://sadegh-aa.github.io/" target="_blank">Sadegh Aliakbarian</a><br>
-      Session 2: Variational Autoencoders, Normalizing Flows
+      Session 2: Variational Autoencoders, Normalizing Flows<br>
+      <button class="button button4">Slides</button>
+      <button class="button button4">Video</button>
     </div>
   </div>
   
@@ -38,7 +42,9 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     </a>
     <div class="people-name text-center">
       <a href="https://sites.google.com/view/xinyus-homepage/Home" target="_blank">Xin Yu</a><br>
-      Session 3: Generative Adversarial Networks, Energy-based Models
+      Session 3: Generative Adversarial Networks, Energy-based Models<br>
+      <button class="button button4">Slides</button>
+      <button class="button button4">Video</button>
     </div>
   </div>
 </div>
