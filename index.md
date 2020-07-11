@@ -47,4 +47,4 @@ This tutorial covers an introduction to generative models, deep autoregressive m
 - Session 1: Introduction to Generative Models, Deep Autoregressive Models *(10 July 2020)*
 - Session 2: Variational Autoencoders, Normalizing Flows *(17 July 2020)*
 - Session 3: Generative Adversarial Networks, Energy-based Models *(24 July 2020)*
-- Zoom Meeting: Join the meeting via (Zoom)[https://anu.zoom.us/j/6449388968"].
+- Zoom Meeting: Join the meeting via (Zoom)[https://anu.zoom.us/j/6449388968].
